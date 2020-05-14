@@ -1,0 +1,25 @@
+{
+  "name": "log-and-color",
+  "version": "1.0.2",
+  "description": "Log com cores...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavoNovaisR/log-color"
+  },
+  "keywords": [
+    "brasil",
+    "log",
+    "color",
+    "console.log color"
+  ],
+  "author": "Gustavo Novais Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavoNovaisR/log-color/issues"
+  },
+  "homepage": "https://github.com/GustavoNovaisR/log-color#readme"
+}
