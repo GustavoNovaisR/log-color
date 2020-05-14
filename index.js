@@ -52,7 +52,7 @@ class Color {
 }
 
 let c = (...args) => {
-    return new Color(120, 99, ...args)
+    return new Color(4, 0, ...args)
 }
 
 module.exports = { l, c }
